@@ -40,7 +40,7 @@ npm run dev
 
 - Edit an Users in database
 
-[http://localhost:3333/users](http://localhost:3333/users):id  http method Put
+[http://localhost:3333/users](http://localhost:3333/users)/:id  http method Put
 
 - Delete an Users in database
 
