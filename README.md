@@ -9,7 +9,7 @@ Studies in NodeJs, creating one simple CRUD
 - clone this project or fork
 
 ```jsx
-git clone [https://github.com/NitoBa/crud-node.git](https://github.com/NitoBa/crud-node.git)
+git clone https://github.com/NitoBa/crud-node.git
 ```
 
 - setup your mongo database
